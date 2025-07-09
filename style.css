@@ -617,7 +617,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     gap: 40px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .blog-controls {
@@ -1062,6 +1062,9 @@ blockquote {
         gap: 15px;
         text-align: center;
     }
+   .shop-controls{
+      gap: 0px;
+   }
 
     .shop-controls-container, .shop-controls {
         flex-direction: column;
